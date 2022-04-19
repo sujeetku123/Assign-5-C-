@@ -26,11 +26,11 @@ namespace Assignment5
 
             ArrayList e = new ArrayList()
             {
-                    new Employee{EmpId=1,EmpName="saekumaar",EmpSal=20000,EmpLoc="Hyd"},
-                    new Employee{EmpId=2,EmpName="Rama",EmpSal=25000,EmpLoc="Hyd"},
-                    new Employee{EmpId=3,EmpName="Krishna",EmpSal=32000,EmpLoc="Hyd"},
-                    new Employee{EmpId=3,EmpName="Shiva",EmpSal=40000,EmpLoc="Hyd"},
-                    new Employee{ EmpId=4, EmpName="Vignesh"},
+                    new Employee{EmpId=1,EmpName="Sujeetkumar",EmpSal=20000,EmpLoc="Bangalore"},
+                    new Employee{EmpId=2,EmpName="Hiteshsharma",EmpSal=26000,EmpLoc="Bangalore"},
+                    new Employee{EmpId=3,EmpName="Ramsingh",EmpSal=31000,EmpLoc="Bangalore"},
+                    new Employee{EmpId=3,EmpName="ShivaSekhar",EmpSal=45000,EmpLoc="Bangalore"},
+                    new Employee{ EmpId=4, EmpName="Tushardhawan"},
             };
             foreach (Employee i in e)
             {
