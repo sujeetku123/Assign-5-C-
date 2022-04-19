@@ -11,10 +11,10 @@ namespace sample
         static void Main()
         {
             List<string> list = new List<string>();
-            list.Add("ajay");
-            list.Add("akula");
-            list.Add("suri");
-            list.Add("amar");
+            list.Add("Ramesh");
+            list.Add("Rajendra");
+            list.Add("Rakul");
+            list.Add("Ranvijay");
             for (int i = 0; i < list.Count; i++)
             {
                 Console.WriteLine("List of employees" + ':' + list[i]);
