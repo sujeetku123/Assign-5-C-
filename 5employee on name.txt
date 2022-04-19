@@ -11,10 +11,10 @@ namespace 5th_Assignment
         static void Main()
         {
             List<string> list = new List<string>();
-            list.Add("hari babu");
-            list.Add("prasanna");
-            list.Add("vasu");
-            list.Add("kiran kumar");
+            list.Add("Shyam Shekhar");
+            list.Add("Hari Sagar");
+            list.Add("Shiv Sundar");
+            list.Add("Ram Gopal");
             for (int i = 0; i < list.Count; i++)
             {
                 Console.WriteLine("List of employees" + ':' + list[i]);
